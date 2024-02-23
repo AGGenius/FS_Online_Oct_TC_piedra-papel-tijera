@@ -1,3 +1,4 @@
+Creado por Blanca Gómez, Javier Santiago, Adrian Giner.
 # Ejercicio: Juego de Piedra, Papel o Tijera
 
 En este ejercicio, crearemos un juego de "Piedra, Papel o Tijera" utilizando HTML, CSS y JavaScript. El juego permitirá a los usuarios elegir una de las tres opciones, compararla con la elección de la computadora y mostrar el resultado en la página.
